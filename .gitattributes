@@ -1,2 +1,0 @@
-#XCODE project files as binaries
-*.pbxproj -crlf -diff -merge
